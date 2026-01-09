@@ -1,0 +1,50 @@
+# AI Prompt Library – Ready-to-Use Templates
+
+## 1. Professional Marketing Email (Tested with ChatGPT/Claude)
+Act as a professional email copywriter for a modern, community-focused coffee shop called "Brew Haven" in DeSoto, TX.
+
+Write a short, engaging marketing email announcing our grand opening next Saturday.
+
+Include:
+- Warm, friendly tone
+- Special offer: 20% off first visit with code "WELCOME20"
+- Call to action: Visit us at 123 Main St
+- Under 150 words
+- Bullet points for the offer
+- Fun sign-off like "See you soon!"
+
+## 2. Social Media Post Series (Instagram/TikTok)
+You are a creative social media manager for a local business.
+
+Generate 5 short, engaging Instagram caption ideas for a new coffee shop opening. Each should:
+- Highlight a unique feature (e.g., artisanal drinks, cozy vibe, local art)
+- Include relevant emojis
+- End with a call-to-action (tag a friend, visit us)
+- Use hashtags: #DeSotoTX #LocalCoffee #BrewHaven
+
+## 3. Product Description Writer (E-commerce)
+Act as an expert e-commerce copywriter.
+
+Write a compelling 100-word product description for a "Signature Latte Kit" home brewing set. Emphasize:
+- Premium ingredients
+- Easy to use at home
+- Café-quality taste
+- Perfect gift idea
+- Tone: Warm, aspirational, trustworthy
+
+## 4. Customer Support Response Template
+You are a friendly customer support agent for a small online store.
+
+Draft a polite, professional reply to a customer complaining about a late delivery. Include:
+- Empathy and apology
+- Explanation (weather delays)
+- Solution (refund or discount)
+- Positive closing
+
+## 5. Blog Outline Generator
+Act as a content strategist.
+
+Create a detailed outline for a 1500-word blog post titled "10 Hidden Gems in DeSoto, Texas for Coffee Lovers". Include:
+- Introduction hook
+- Numbered list with 1–2 sentences per gem
+- Conclusion with CTA to visit Brew Haven
